@@ -1,0 +1,11 @@
+Part-II
+1) Generate Ranks by using Rank transformation
+2) Generate Ranks without using Rank Transformation
+3) Generate Dense Rank
+4) Work on Router_Example.png (you can find this file in text files folder)
+5) Work on Router_Example_2.png (you can find this file in text files folder)
+6) Work on Aggregator TRF
+7) USE SEQ Generator TRF PRIOR TO JOINER TRF
+8) Practice Union TRF
+9) Practice Normalizer TRF
+10) Work on converting rows to columns logic(solution is there in pdf_files)
